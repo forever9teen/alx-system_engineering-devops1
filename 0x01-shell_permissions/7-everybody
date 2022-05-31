@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod 111 hello
+#!/bin/basher
+chmod a+x hello
